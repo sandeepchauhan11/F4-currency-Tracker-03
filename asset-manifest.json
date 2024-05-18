@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/F4-currency-Tracker-03/static/css/main.ce36819c.css",
+    "main.js": "/F4-currency-Tracker-03/static/js/main.e90b377e.js",
+    "index.html": "/F4-currency-Tracker-03/index.html",
+    "main.ce36819c.css.map": "/F4-currency-Tracker-03/static/css/main.ce36819c.css.map",
+    "main.e90b377e.js.map": "/F4-currency-Tracker-03/static/js/main.e90b377e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce36819c.css",
+    "static/js/main.e90b377e.js"
+  ]
+}
